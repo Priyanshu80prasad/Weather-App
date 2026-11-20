@@ -21,4 +21,4 @@ Google Play Services Location, Open-Meteo API
 1. Clone the repo
 2. Open in Android Studio
 3. Run on an emulator or a real device
-(No API key required)<img width="722" height="1600" alt="WhatsApp Image 2026-11-20 at 2 19 34 PM" src="https://github.com/user-attachments/assets/c0844fdb-d2b8-4057-8a07-01151724e984" />
+(No API key required)<img width="200" height="400" alt="WhatsApp Image 2026-11-20 at 2 19 34 PM" src="https://github.com/user-attachments/assets/c0844fdb-d2b8-4057-8a07-01151724e984" />
