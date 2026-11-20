@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Dusk sky: deep indigo upar, neeche halka peach horizon -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:angle="270"
+        android:startColor="#12194A"
+        android:centerColor="#3552A6"
+        android:endColor="#F2A877"
+        android:type="linear"/>
+</shape>
